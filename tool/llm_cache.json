@@ -1,0 +1,697 @@
+{
+ "v3:llama3.1:TK-240015": {
+  "evidence": "full rfnd processed (1709)",
+  "seconds": 25.2,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-240016": {
+  "evidence": "replacement raised",
+  "seconds": 40.9,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-240216": {
+  "evidence": "full refund processed (4998)",
+  "seconds": 10.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-240353": {
+  "evidence": "cancelled before dispatch",
+  "seconds": 10.8,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-240699": {
+  "evidence": "reshipped",
+  "seconds": 7.0,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-240796": {
+  "evidence": "- (SOP 2.7) -TK",
+  "seconds": 12.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-240889": {
+  "evidence": "Follow-up not required.",
+  "seconds": 8.7,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-240890": {
+  "evidence": "1. payment debited, no ord / 2. chk pg dashboard for txn / 3. refunded rs 4999",
+  "seconds": 12.7,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-240923": {
+  "evidence": "chk refund status on PG",
+  "seconds": 13.0,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-241091": {
+  "evidence": "Follow-up not required.",
+  "seconds": 7.8,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-241220": {
+  "evidence": "confirmde utrs -> refund of rs 6649 initiated",
+  "seconds": 15.4,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-241268": {
+  "evidence": "Ful rfdn processed (6499)",
+  "seconds": 8.3,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-241476": {
+  "evidence": "Full rfnd processed (6499)",
+  "seconds": 20.6,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-241540": {
+  "evidence": "1. Refund delay / 2. Checked reverse pkp QC status / 3. Refunded Rs 2249",
+  "seconds": 15.4,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-241568": {
+  "evidence": "cx preferred rfnd",
+  "seconds": 13.6,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-241675": {
+  "evidence": "fresh unit shipped from BLR warehouse",
+  "seconds": 12.4,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-241788": {
+  "evidence": "replacement dispatched as goodwill",
+  "seconds": 9.5,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-241851": {
+  "evidence": "fresh unit shipped from BLR warehouse",
+  "seconds": 12.6,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-242130": {
+  "evidence": "replacement unit also shipped",
+  "seconds": 9.0,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-242158": {
+  "evidence": "Processed FR & raised RMA for new set.",
+  "seconds": 10.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-242411": {
+  "evidence": "full rfnd processed (1999)",
+  "seconds": 26.4,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-242440": {
+  "evidence": "Refund of Rs 5849 initiated to source.",
+  "seconds": 14.5,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-242598": {
+  "evidence": "new unit also going out tomorrow",
+  "seconds": 8.4,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-242614": {
+  "evidence": "cx to monitor. / Cx got the amount back, also sending a new set to keep him happy.",
+  "seconds": 16.7,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-242639": {
+  "evidence": "Refund confirmed credited",
+  "seconds": 9.6,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-242646": {
+  "evidence": "Both refund & replacement given as cx threatened social media.",
+  "seconds": 11.1,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-242965": {
+  "evidence": "Refund of Rs 1299 initiated to source",
+  "seconds": 15.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-243070": {
+  "evidence": "see prev",
+  "seconds": 9.0,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-243098": {
+  "evidence": "refund + rplc",
+  "seconds": 9.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-243157": {
+  "evidence": "refund of rs 12998 initiated to source -RM",
+  "seconds": 12.1,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-243305": {
+  "evidence": "new unit also going out tomorrow",
+  "seconds": 6.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-243329": {
+  "evidence": "Replacement dispatched.",
+  "seconds": 6.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-243380": {
+  "evidence": "Auto-refund confirmed within 5-7 days.",
+  "seconds": 10.0,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-243492": {
+  "evidence": "also raised rplc",
+  "seconds": 20.0,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-243501": {
+  "evidence": "Processed FR and raised RMA for new set",
+  "seconds": 48.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-243715": {
+  "evidence": "refund of Rs 6499 initiated to source",
+  "seconds": 19.0,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-243880": {
+  "evidence": "fresh unit shipped from blr warehouse",
+  "seconds": 27.5,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-243902": {
+  "evidence": "done",
+  "seconds": 11.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-244024": {
+  "evidence": "issue: refund delay. chk refund status on pg.",
+  "seconds": 15.5,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-244074": {
+  "evidence": "Case closed with cx consent.",
+  "seconds": 9.5,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-244176": {
+  "evidence": "issue: incorrect product shipped. verified order vs delivered item photos.",
+  "seconds": 10.5,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-244209": {
+  "evidence": "chk shipment status",
+  "seconds": 9.7,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-244356": {
+  "evidence": "Refund approved, Rs 4999, 5-7 working days.",
+  "seconds": 16.4,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-244528": {
+  "evidence": "Full rfnd processed (1799)",
+  "seconds": 13.6,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-244644": {
+  "evidence": "replacement unit also shipped",
+  "seconds": 6.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-244687": {
+  "evidence": "replacement not applicable (out of stock)",
+  "seconds": 22.0,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-244867": {
+  "evidence": "Sent a new unit and released the money as well",
+  "seconds": 12.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-245003": {
+  "evidence": "explained policy, refund only",
+  "seconds": 17.4,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-245011": {
+  "evidence": "chk shipment status",
+  "seconds": 16.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-245058": {
+  "evidence": "a fresh pair shipped",
+  "seconds": 17.0,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-245244": {
+  "evidence": "rplc request rejected as per policy",
+  "seconds": 9.0,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-245319": {
+  "evidence": "Replacement dispatched",
+  "seconds": 6.7,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-245424": {
+  "evidence": "rfnd approved",
+  "seconds": 42.0,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-245670": {
+  "evidence": "full rfnd processed (3149)",
+  "seconds": 7.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-245708": {
+  "evidence": "explained policy, rfnd only",
+  "seconds": 8.7,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-245757": {
+  "evidence": "1. order cancellation / 2. cancelled before dispatch",
+  "seconds": 50.9,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-245875": {
+  "evidence": "refund of rs 1299 initiated to source",
+  "seconds": 25.1,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-245903": {
+  "evidence": "replacement unit also shipped",
+  "seconds": 14.6,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-245941": {
+  "evidence": "cx: ord cancellation",
+  "seconds": 11.8,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-246226": {
+  "evidence": "Full rfnd processed (6499). Will monitor.",
+  "seconds": 8.2,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-246263": {
+  "evidence": "rfnd processed",
+  "seconds": 10.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-246341": {
+  "evidence": "cx preferred refund",
+  "seconds": 17.0,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-246398": {
+  "evidence": "Full rfnd issued and rplc dispatched as goodwill",
+  "seconds": 15.0,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-246405": {
+  "evidence": "replacement declined by cx",
+  "seconds": 87.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-246462": {
+  "evidence": "Auto-rfnd conf within 5-7 days.",
+  "seconds": 10.2,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-246825": {
+  "evidence": "Helpdesk replacement flag: Y",
+  "seconds": 8.1,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-246967": {
+  "evidence": "already shipped",
+  "seconds": 7.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-247060": {
+  "evidence": "rfnd of Rs 3499 initiated to source",
+  "seconds": 12.2,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-247126": {
+  "evidence": "a fresh pair shipped",
+  "seconds": 22.2,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-247221": {
+  "evidence": "1. amount deducted without order / 2. checked pg dashboard for txn / 3. refund approved",
+  "seconds": 17.9,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-247254": {
+  "evidence": "also raised replacement",
+  "seconds": 9.7,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-247308": {
+  "evidence": "cx asked for rplc + rfnd, explained policy, rfnd only",
+  "seconds": 12.9,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-247314": {
+  "evidence": "Full refund processed (5399).",
+  "seconds": 17.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-247439": {
+  "evidence": "-",
+  "seconds": 9.1,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-247472": {
+  "evidence": "sorted",
+  "seconds": 9.5,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-247607": {
+  "evidence": "rfnd approved",
+  "seconds": 10.9,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-247623": {
+  "evidence": "chk w/ crr for damage claim",
+  "seconds": 16.8,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-247941": {
+  "evidence": "refund done and new unit sent as one-time gesture",
+  "seconds": 11.1,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-248033": {
+  "evidence": "rfnd approved",
+  "seconds": 17.9,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-248156": {
+  "evidence": "issue: order cancellation. cancelled before dispatch.",
+  "seconds": 11.0,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-248196": {
+  "evidence": "checked shipment status",
+  "seconds": 10.6,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-248232": {
+  "evidence": "checked shipment status.",
+  "seconds": 10.4,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-248262": {
+  "evidence": "chk w/ courier for damage claim. refunded rs 375.",
+  "seconds": 9.9,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-248300": {
+  "evidence": "checked shipment status -> full refund processed (2974) (sop 2.7)",
+  "seconds": 18.1,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-248563": {
+  "evidence": "refund approved, rs 3149, 5-7 working days. issue: refund delay. checked refund status on pg.",
+  "seconds": 15.2,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-248633": {
+  "evidence": "cx preferred refund",
+  "seconds": 42.1,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-248842": {
+  "evidence": "rfnd of rs 270 initiated to source",
+  "seconds": 8.5,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-249151": {
+  "evidence": "raised w/ warehouse. refunded rs 499.",
+  "seconds": 17.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-249196": {
+  "evidence": "Follow-up not required.",
+  "seconds": 9.7,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-249347": {
+  "evidence": "Cx says refund pending. Checked reverse pickup QC status. Refund confirmed credited.",
+  "seconds": 12.7,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-249457": {
+  "evidence": "Replacement dispatched",
+  "seconds": 8.6,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-249521": {
+  "evidence": "Checked shipment status",
+  "seconds": 8.0,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-249537": {
+  "evidence": "refund approved, rs 2374, 5-7 working days",
+  "seconds": 11.6,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-249687": {
+  "evidence": "Checked shipment status.",
+  "seconds": 10.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-249730": {
+  "evidence": "issued refund + replacement both",
+  "seconds": 29.9,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-249811": {
+  "evidence": "rplc dispatched",
+  "seconds": 7.5,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-249847": {
+  "evidence": "1. Refund pending / 2. chk refund status on PG / 3. Full refund processed (350)",
+  "seconds": 15.9,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-249850": {
+  "evidence": "full rfnd processed (3999)",
+  "seconds": 17.2,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-249896": {
+  "evidence": "a fresh pair shipped",
+  "seconds": 10.7,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-249952": {
+  "evidence": "rfnd of Rs 2974 initiated to source",
+  "seconds": 6.7,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-250183": {
+  "evidence": "cx satisfied on chat",
+  "seconds": 9.9,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-250428": {
+  "evidence": "replacement unit also shipped",
+  "seconds": 11.7,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-250554": {
+  "evidence": "rplc unit also shipped",
+  "seconds": 8.2,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-250764": {
+  "evidence": "replacement request rejected as per policy",
+  "seconds": 11.1,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-250828": {
+  "evidence": "Replacement dispatched",
+  "seconds": 6.6,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-250880": {
+  "evidence": "rfnd of Rs 525 initiated to source",
+  "seconds": 17.7,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-250906": {
+  "evidence": "Refund done and new unit sent as one-time gesture.",
+  "seconds": 12.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-251042": {
+  "evidence": "dispatched a new one under RMA",
+  "seconds": 8.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-251139": {
+  "evidence": "rfnd done & new unit sent as one-time gesture",
+  "seconds": 9.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-251284": {
+  "evidence": "Refund approved, Rs 1662, 5-7 working days. Issue: transit damage. Photos received, damage confirmed.",
+  "seconds": 17.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-251523": {
+  "evidence": "rfnd approved",
+  "seconds": 7.8,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-251635": {
+  "evidence": "cx opted for rfnd",
+  "seconds": 18.9,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-251880": {
+  "evidence": "rfnd done and new unit sent as one-time gesture",
+  "seconds": 23.1,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-251905": {
+  "evidence": "1. payment debited, no ord / 2. confirmed w/ payment gateway / 3. refund approved",
+  "seconds": 14.6,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-251940": {
+  "evidence": "//AAD",
+  "seconds": 7.0,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-251991": {
+  "evidence": "Re-shipped from warehouse. Credited full amount, new unit also going out tomorrow.",
+  "seconds": 12.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-252031": {
+  "evidence": "Replacement dispatched.",
+  "seconds": 9.6,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-252173": {
+  "evidence": "Full refund processed (6299)",
+  "seconds": 13.9,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-252185": {
+  "evidence": "new unit also going out tomorrow",
+  "seconds": 14.2,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-252230": {
+  "evidence": "chk shipment status",
+  "seconds": 8.3,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-252233": {
+  "evidence": "Full rfnd processed (3999). Cx informed.",
+  "seconds": 14.9,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-252359": {
+  "evidence": "Cx reported refund pending.",
+  "seconds": 15.5,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-252627": {
+  "evidence": "Raised ticket with courier partner.",
+  "seconds": 15.5,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-252678": {
+  "evidence": "//AIS",
+  "seconds": 6.6,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-253091": {
+  "evidence": "cx preferred refund",
+  "seconds": 7.5,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-253451": {
+  "evidence": "rplc unit also shipped",
+  "seconds": 8.2,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-253510": {
+  "evidence": "already shipped, advised rto/return",
+  "seconds": 18.4,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-253679": {
+  "evidence": "Processed FR and raised RMA for new set.",
+  "seconds": 9.8,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-253738": {
+  "evidence": "cx preferred refund",
+  "seconds": 18.4,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-253966": {
+  "evidence": "refund + rplc",
+  "seconds": 7.1,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-254003": {
+  "evidence": "rplc dispatched",
+  "seconds": 25.7,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-254094": {
+  "evidence": "replacement not applicable (out of stock)",
+  "seconds": 8.9,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-254169": {
+  "evidence": "Cancelled before dispatch",
+  "seconds": 32.8,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-254227": {
+  "evidence": "cx informed",
+  "seconds": 7.5,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-254285": {
+  "evidence": "full refund processed (270)",
+  "seconds": 12.4,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-254302": {
+  "evidence": "cx satisfied on chat",
+  "seconds": 12.3,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-254333": {
+  "evidence": "Full rfnd processed (1662). Will monitor.",
+  "seconds": 50.2,
+  "verdict": "yes"
+ },
+ "v3:llama3.1:TK-254361": {
+  "evidence": "replacement not applicable (out of stock)",
+  "seconds": 17.2,
+  "verdict": "no"
+ },
+ "v3:llama3.1:TK-254467": {
+  "evidence": "Will monitor.",
+  "seconds": 7.5,
+  "verdict": "no"
+ }
+}
